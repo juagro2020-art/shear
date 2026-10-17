@@ -103,3 +103,7 @@ DEFINITION OF DONE (judges can see this live, on a phone)
 6. A public Passport and share card open without Telegram
 7. The same site works in a normal browser if Telegram is unavailable
 8. The analytics page shows real numbers
+
+
+
+https://forms.gle/rx5KzWYemLdzxnYA6
