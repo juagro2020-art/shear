@@ -107,3 +107,49 @@ DEFINITION OF DONE (judges can see this live, on a phone)
 
 
 https://forms.gle/rx5KzWYemLdzxnYA6
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+=====================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beyond the Ballot: Building a Democracy Africans Can Live In
+
+Ask an African what democracy means to them and you will rarely hear about ballot boxes first. You are more likely to hear about a road that never got repaired after the councillor was elected, a clinic that closed when its funding moved to a ministry no one could reach, or a young graduate who has voted in three elections and still cannot find work. For many citizens, democracy is judged less by the act of voting than by whether it changes anything in daily life. The next twenty years will be decided by whether African democracy can answer that question with more than elections.
+
+The progress of the last two decades is real and should not be dismissed. Ghana has handed power over peacefully several times since 2000, and Botswana has sustained multiparty competition for longer than most of its neighbours. In 2024, Senegal offered a striking lesson. When the incumbent tried to postpone a presidential election, the Constitutional Council overturned the delay, and citizens and civil society pressed until the vote took place and power changed hands peacefully. Such moments show that African citizens are not passive. They defend the rules when those rules are threatened.
+
+Yet the same decades have exposed deep fractures. Between 2020 and 2023, military officers seized power in Mali, Guinea, Burkina Faso, Niger and Gabon, often presenting themselves as saviours from corrupt and unresponsive governments. Several of those governments had been elected, which is the uncomfortable point. An election held every few years cannot compensate for institutions that fail citizens between votes: courts that bend, police who answer to the ruling party, and public services that reward loyalty rather than need. When democracy is reduced to a calendar of polls, people learn to see it as a contest among elites rather than a system that serves them.
+
+Money compounds the problem. Campaign financing is often opaque, and candidates who depend on private patrons owe those patrons after they win. Public contracts become rewards for loyalty. Meanwhile, young people, who make up roughly 60 per cent of Africa’s population under the age of 25, face high unemployment and few routes into political life. Parties recruit older members, candidacy fees are costly, and youth who protest, as Kenyans did in 2024 against a proposed finance bill, are too often met with force rather than dialogue. Young Africans are not disengaged from politics. Many are simply shut out of its institutions.
+
+Digital technology sharpens these tensions. Social media has given citizens new ways to expose corruption and organise, but it has also made disinformation faster and cheaper to produce. Some governments have responded not by improving the information environment but by restricting internet access during elections and protests, which erodes trust on all sides. A democracy that cannot agree on what is true will struggle to hold anyone accountable.
+
+So what should democracy look like in twenty years? I would argue it should be measured by the distance between the citizen and the decision. Four practical steps could close that distance, and each draws on resources that already exist on the continent.
+
+First, decentralisation must be made real rather than declared. Constitutions across the continent promise local government, but councils often lack budgets, staff and the power to decide anything meaningful. Participatory budgeting, which began in Porto Alegre, Brazil, and has since been adapted in cities around the world including several in Africa, lets residents decide how a share of public money is spent. Scaling this with transparent public accounts would turn voting into ongoing participation.
+
+Second, African societies should draw on their own traditions of governance. The Gadaa system of the Oromo people, which UNESCO recognised as intangible cultural heritage in 2016, organised political authority around age-based cohorts that passed responsibilities on at regular intervals, building rotation and accountability into leadership. Other communities have councils of elders, consensus-building practices and customary checks on rulers. These are not museum pieces. Universities and civic educators could study them alongside Western political theory, so that democracy feels like something Africans built rather than something imported.
+
+Third, young people need a formal place at the table. Governments could lower the minimum age for candidates, reserve a share of list seats for under-35s, and require parties to publish how they select candidates. The African Youth Charter already calls for young people’s participation in decision-making, and these reforms would put that call into practice. Such measures cost little and send a clear message that the future belongs to those who will live longest with its consequences.
+
+Fourth, the information environment needs both protection and literacy. Instead of switching off the internet, governments should commit to predictable, rights-based rules for platforms, while schools teach students to verify sources. Independent fact-checking organisations, many already working across the continent, deserve stable funding.
+
+None of these ideas will work if they are copied wholesale from elsewhere, and none will succeed without enforcement. The African Charter on Democracy, Elections and Governance, adopted in 2007, already sets clear standards on elections, term limits and unconstitutional changes of government. Its weakness has never been its text but its implementation. Citizens, parliaments and regional bodies must treat the charter as a tool to be used, not a document signed at ceremonies.
+
+Democracy in Africa over the next two decades will not look like a copy of any other continent’s system. It should look like institutions that respond to local realities, that give young people real influence, and that let citizens see where their money goes and who decides. The ballot will remain important. But the true test of democracy is whether a farmer, a student or a nurse can expect the state to listen to them on an ordinary Tuesday, not only on election day.
